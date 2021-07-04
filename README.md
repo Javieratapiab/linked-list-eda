@@ -2,23 +2,23 @@
 
 ## Enunciado
 
-Un cine ha decidido regalar entradas gratis para unade sus funciones, pero bajo ciertas condiciones. El cine ha formado a las diversas personasque han llegado para las entradas en dos filas del mismo tamaño **n**. La condición para obtener una entrada son las siguientes:
+Un cine ha decidido regalar entradas gratis para una de sus funciones, pero bajo ciertas condiciones. El cine ha formado a las diversas personas que han llegado para las entradas en dos filas del mismo tamaño **n**. Las condiciones para obtener una entrada son las siguientes:
 
-- Entre las dos personas que estén al frente de la fila,la persona que tenga lamenor edad se gana una entrada y entra a la función.
+- Entre las dos personas que estén al frente de la fila, la persona que tenga la menor edad se gana una entrada y entra a la función.
 
-- Si dos personas tienen la misma edad, ambas personasganan entrada y entran ala función.
+- Si dos personas tienen la misma edad, ambas personas ganan entrada y entran a la función.
 
-- Si sólo queda una fila con personas, estas irán ganandoentradas en el orden quese encuentran hasta que se acaben las entradas.
+- Si sólo queda una fila con personas, estas irán ganando entradas en el orden que se encuentran hasta que se acaben las entradas.
 
 - Puede darse el caso en que sobren entradas.
 
-El cine cuenta con una cantidad limitada de entradas para la función, y precisa saber el orden en el que quedan las personas en las filas al momento en que se agotan las entradas. También precisa saber el orden en el quehan ingresado las personas a la función.
+El cine cuenta con una cantidad limitada de entradas para la función, por lo tanto, precisa saber el orden en el que quedan las personas en las filas al momento en que se agotan las entradas. También precisa saber el orden en el que han ingresado las personas a la función.
 
-Para lo anterior, se pide utilizar el lenguaje de programación **C**, y utilizando listas enlazadas, indicar el orden en el que han ingresadolas personas a la función, e indicare l estado de las dos filas al momento en que se han acabado las entradas.
+Para lo anterior, se pide utilizar el lenguaje de programación **C**, y utilizando listas enlazadas, indicar el orden en el que han ingresado las personas a la función y el estado de las dos filas al momento en que se han acabado las entradas.
 
-Como entrada para su programa, se ingresará un archivo de texto el cual contendrá las dos filas de persona, en donde cada persona será identificada con su edad. A su vez, por línea de comandos se pedirá ingresar la cantidad deentradas disponibles para dar.
+Como entrada para su programa, se ingresará un archivo de texto el cual contendrá las dos filas de personas, en donde cada persona será identificada con su edad. A su vez, por línea de comandos, se pedirá ingresar la cantidad de entradas disponibles para dar.
 
-Se pide que como salida se genere un archivo de textoen donde se generan trescolumnas, en donde cada columna será:
+Se pide que como salida se genere un archivo de texto en donde se generan tres columnas, en donde cada columna será:
 
 - La **primera fila** con las personas que no consiguieron entrar a la función.
 
